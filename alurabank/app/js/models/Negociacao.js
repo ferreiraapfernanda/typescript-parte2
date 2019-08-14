@@ -1,7 +1,7 @@
 System.register([], function (exports_1, context_1) {
     "use strict";
-    var Negociacao;
     var __moduleName = context_1 && context_1.id;
+    var Negociacao;
     return {
         setters: [],
         execute: function () {
